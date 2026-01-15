@@ -114,31 +114,6 @@ Built with **Spring Boot + React**, focusing on **clean architecture, real-world
 
 ---
 
-## 🧱 Project Structure
-
-travel-planner/
-│
-├── backend/
-│ ├── controller/
-│ ├── service/
-│ ├── repository/
-│ ├── entity/
-│ ├── security/
-│ └── TravelPlannerApplication.java
-│
-├── frontend/
-│ ├── src/
-│ │ ├── pages/
-│ │ ├── components/
-│ │ ├── api/
-│ │ ├── App.js
-│ │ └── index.css
-│ └── package.json
-│
-└── README.md
-
-
-
 ---
 
 ## ⚙️ Setup Instructions
