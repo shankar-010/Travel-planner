@@ -1,21 +1,3 @@
-// package com.example.travelplanner.repository;
-
-// import org.springframework.data.jpa.repository.JpaRepository;
-// import com.example.travelplanner.entity.Trip;
-
-// public interface TripRepository extends JpaRepository<Trip, Long> {
-
-
-//     List<Trip> findByStartDateLessThanEqualAndEndDateGreaterThanEqual(
-//         LocalDate start,
-//         LocalDate end
-// );
-
-// List<Trip> findByStartDateAfterOrderByStartDateAsc(LocalDate date);
-
-// }
-
-
 
 package com.example.travelplanner.repository;
 
