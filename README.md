@@ -116,6 +116,14 @@ Built with **Spring Boot + React**, focusing on **clean architecture, real-world
 
 ---
 
+<img width="1557" height="851" alt="Screenshot 2026-03-21 212439" src="https://github.com/user-attachments/assets/a6c1a1c3-e67a-4fd1-aa69-666f174ba6f6" />
+
+<img width="1727" height="819" alt="Screenshot 2026-03-21 212451" src="https://github.com/user-attachments/assets/754ffb72-065a-47be-9d83-0cd2d5f087ce" />
+
+<img width="892" height="744" alt="Screenshot 2026-03-21 212508" src="https://github.com/user-attachments/assets/00a08df1-79d9-45c0-ae09-a5095543465d" />
+
+<img width="1614" height="845" alt="Screenshot 2026-03-21 212538" src="https://github.com/user-attachments/assets/4107304e-5619-47b4-8fe0-5c26a6da4395" />
+
 ## ⚙️ Setup Instructions
 
 ### 🔧 Backend Setup
@@ -147,5 +155,5 @@ npm start
 Frontend runs on:
 👉 http://localhost:3000
 
-<img width="1557" height="851" alt="Screenshot 2026-03-21 212439" src="https://github.com/user-attachments/assets/a6c1a1c3-e67a-4fd1-aa69-666f174ba6f6" />
+
 
